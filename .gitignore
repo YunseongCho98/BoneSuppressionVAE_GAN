@@ -1,0 +1,118 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+
+# Parameters
+*.json
+*.pth
+
+# 🔥 대용량 모델 파일 무시
+models_*/**/*.pth
+models_*/**/*.pt
+models_*/**/*.ckpt
+
+# 🔥 가상환경 전체 무시
+env/
+.venv/
+ENV/
+venv/
+
+# 🔥 PyTorch, TensorFlow 등 빌드 라이브러리 무시
+*.dylib
+*.so
+*.dll
+
+# 🔥 Jupyter/IDE 관련
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# 🔥 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 🔥 Git 내부 객체 무시 (추가로 정리 필요 시)
+.git/objects/
+.git/lfs/
+
+# 🔥 캐시 / 로그
+__pycache__/
+*.log
+*.tmp
+*.cache/
+
+# 🔥 PyTorch Lightning 등 체크포인트 저장 폴더
+lightning_logs/
+checkpoints/

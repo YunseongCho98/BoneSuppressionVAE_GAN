@@ -1,0 +1,64 @@
+Epoch 1/50 | D_loss 1.3124 G_loss 0.9516                                                                                                                  
+[Checkpoint] Saved best models at epoch 1, G_loss 0.9516
+Epoch 2/50 | D_loss 1.1452 G_loss 0.8232                                                                                                                  
+[Checkpoint] Saved best models at epoch 2, G_loss 0.8232
+Epoch 3/50 | D_loss 1.5287 G_loss 0.6978                                                                                                                  
+[Checkpoint] Saved best models at epoch 3, G_loss 0.6978
+Epoch 4/50 | D_loss 2.9848 G_loss 2.0615                                                                                                                  
+Epoch 5/50 | D_loss 0.7362 G_loss 1.7943                                                                                                                  
+Epoch 6/50 | D_loss 0.3069 G_loss 3.0817                                                                                                                  
+Epoch 7/50 | D_loss 1.1305 G_loss 1.6399                                                                                                                  
+Epoch 8/50 | D_loss 1.1232 G_loss 0.9757                                                                                                                  
+Epoch 9/50 | D_loss 0.7510 G_loss 1.2263                                                                                                                  
+Epoch 10/50 | D_loss 0.6347 G_loss 1.5508                                                                                                                 
+Epoch 11/50 | D_loss 0.6132 G_loss 1.1939                                                                                                                 
+Epoch 12/50 | D_loss 0.4719 G_loss 1.7829                                                                                                                 
+Epoch 13/50 | D_loss 1.1281 G_loss 2.2804                                                                                                                 
+Epoch 14/50 | D_loss 0.6373 G_loss 1.3698                                                                                                                 
+Epoch 15/50 | D_loss 0.9330 G_loss 1.1181                                                                                                                 
+Epoch 16/50 | D_loss 0.9283 G_loss 1.0155                                                                                                                 
+Epoch 17/50 | D_loss 1.0809 G_loss 0.8621                                                                                                                 
+Epoch 18/50 | D_loss 1.7998 G_loss 0.9464                                                                                                                 
+Epoch 19/50 | D_loss 1.4941 G_loss 0.5349                                                                                                                 
+[Checkpoint] Saved best models at epoch 19, G_loss 0.5349
+Epoch 20/50 | D_loss 1.3801 G_loss 0.5274                                                                                                                 
+[Checkpoint] Saved best models at epoch 20, G_loss 0.5274
+Epoch 21/50 | D_loss 1.4229 G_loss 0.5234                                                                                                                 
+[Checkpoint] Saved best models at epoch 21, G_loss 0.5234
+Epoch 22/50 | D_loss 1.3936 G_loss 0.5069                                                                                                                 
+[Checkpoint] Saved best models at epoch 22, G_loss 0.5069
+Epoch 23/50 | D_loss 1.3926 G_loss 0.4910                                                                                                                 
+[Checkpoint] Saved best models at epoch 23, G_loss 0.4910
+Epoch 24/50 | D_loss 1.3916 G_loss 0.4923                                                                                                                 
+Epoch 25/50 | D_loss 1.3911 G_loss 0.4650                                                                                                                 
+[Checkpoint] Saved best models at epoch 25, G_loss 0.4650
+Epoch 26/50 | D_loss 1.3894 G_loss 0.4817                                                                                                                 
+Epoch 27/50 | D_loss 1.3893 G_loss 0.4937                                                                                                                 
+Epoch 28/50 | D_loss 1.3892 G_loss 0.4923                                                                                                                 
+Epoch 29/50 | D_loss 1.3881 G_loss 0.4788                                                                                                                 
+Epoch 30/50 | D_loss 1.3875 G_loss 0.4778                                                                                                                 
+Epoch 31/50 | D_loss 1.3879 G_loss 0.4702                                                                                                                 
+Epoch 32/50 | D_loss 1.3878 G_loss 0.4718                                                                                                                 
+Epoch 33/50 | D_loss 1.3871 G_loss 0.4582                                                                                                                 
+[Checkpoint] Saved best models at epoch 33, G_loss 0.4582
+Epoch 34/50 | D_loss 1.3870 G_loss 0.4418                                                                                                                 
+[Checkpoint] Saved best models at epoch 34, G_loss 0.4418
+Epoch 35/50 | D_loss 1.3871 G_loss 0.4550                                                                                                                 
+Epoch 36/50 | D_loss 1.3867 G_loss 0.4415                                                                                                                 
+[Checkpoint] Saved best models at epoch 36, G_loss 0.4415
+Epoch 37/50 | D_loss 1.3868 G_loss 0.4609                                                                                                                 
+Epoch 38/50 | D_loss 1.3864 G_loss 0.4475                                                                                                                 
+Epoch 39/50 | D_loss 1.3863 G_loss 0.4497                                                                                                                 
+Epoch 40/50 | D_loss 1.3865 G_loss 0.4490                                                                                                                 
+Epoch 41/50 | D_loss 1.3857 G_loss 0.4410
+[Checkpoint] Saved best models at epoch 41, G_loss 0.4410
+Epoch 42/50 | D_loss 1.3863 G_loss 0.4441                                 
+Epoch 43/50 | D_loss 1.3864 G_loss 0.5155                                 
+Epoch 44/50 | D_loss 1.3859 G_loss 0.4430                                                                                                                 
+Epoch 45/50 | D_loss 1.3863 G_loss 0.4202                                                                                                                 
+[Checkpoint] Saved best models at epoch 45, G_loss 0.4202
+Epoch 46/50 | D_loss 1.3861 G_loss 0.4444                                                                                                                 
+Epoch 47/50 | D_loss 1.3863 G_loss 0.4428                                                                                                                 
+Epoch 48/50 | D_loss 1.3864 G_loss 0.4405                                                                                                                 
+Epoch 49/50 | D_loss 1.3865 G_loss 0.4353                                                                                                                 
+Epoch 50/50 | D_loss 1.3862 G_loss 0.4455

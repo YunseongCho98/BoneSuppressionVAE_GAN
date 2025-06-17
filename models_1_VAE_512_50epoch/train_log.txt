@@ -1,0 +1,91 @@
+Using device: mps
+Epoch 1/50, Avg Loss: 4430.9515                                                                                                                           
+[Checkpoint] Saved best models at epoch 1, Avg_loss 4430.9515
+Epoch 2/50, Avg Loss: 493.0955                                                                                                                            
+[Checkpoint] Saved best models at epoch 2, Avg_loss 493.0955
+Epoch 3/50, Avg Loss: 307.6106                                                                                                                            
+[Checkpoint] Saved best models at epoch 3, Avg_loss 307.6106
+Epoch 4/50, Avg Loss: 240.6724                                                                                                                            
+[Checkpoint] Saved best models at epoch 4, Avg_loss 240.6724
+Epoch 5/50, Avg Loss: 214.6732                                                                                                                            
+[Checkpoint] Saved best models at epoch 5, Avg_loss 214.6732
+Epoch 6/50, Avg Loss: 199.2343                                                                                                                            
+[Checkpoint] Saved best models at epoch 6, Avg_loss 199.2343
+Epoch 7/50, Avg Loss: 187.4675                                                                                                                            
+[Checkpoint] Saved best models at epoch 7, Avg_loss 187.4675
+Epoch 8/50, Avg Loss: 180.8179                                                                                                                            
+[Checkpoint] Saved best models at epoch 8, Avg_loss 180.8179
+Epoch 9/50, Avg Loss: 173.7863                                                                                                                            
+[Checkpoint] Saved best models at epoch 9, Avg_loss 173.7863
+Epoch 10/50, Avg Loss: 182.1214                                                                                                                           
+Epoch 11/50, Avg Loss: 167.7267                                                                                                                           
+[Checkpoint] Saved best models at epoch 11, Avg_loss 167.7267
+Epoch 12/50, Avg Loss: 166.0169                                                                                                                           
+[Checkpoint] Saved best models at epoch 12, Avg_loss 166.0169
+Epoch 13/50, Avg Loss: 161.0448                                                                                                                           
+[Checkpoint] Saved best models at epoch 13, Avg_loss 161.0448
+Epoch 14/50, Avg Loss: 157.5709                                                                                                                           
+[Checkpoint] Saved best models at epoch 14, Avg_loss 157.5709
+Epoch 15/50, Avg Loss: 155.3826                                                                                                                           
+[Checkpoint] Saved best models at epoch 15, Avg_loss 155.3826
+Epoch 16/50, Avg Loss: 153.8764                                                                                                                           
+[Checkpoint] Saved best models at epoch 16, Avg_loss 153.8764
+Epoch 17/50, Avg Loss: 151.3549                                                                                                                           
+[Checkpoint] Saved best models at epoch 17, Avg_loss 151.3549
+Epoch 18/50, Avg Loss: 148.6084                                                                                                                           
+[Checkpoint] Saved best models at epoch 18, Avg_loss 148.6084
+Epoch 19/50, Avg Loss: 148.3694                                                                                                                           
+[Checkpoint] Saved best models at epoch 19, Avg_loss 148.3694
+Epoch 20/50, Avg Loss: 143.2523                                                                                                                           
+[Checkpoint] Saved best models at epoch 20, Avg_loss 143.2523
+Epoch 21/50, Avg Loss: 143.6370                                                                                                                           
+Epoch 22/50, Avg Loss: 140.6894                                                                                                                           
+[Checkpoint] Saved best models at epoch 22, Avg_loss 140.6894
+Epoch 23/50, Avg Loss: 137.5874                                                                                                                           
+[Checkpoint] Saved best models at epoch 23, Avg_loss 137.5874
+Epoch 24/50, Avg Loss: 137.3043                                                                                                                           
+[Checkpoint] Saved best models at epoch 24, Avg_loss 137.3043
+Epoch 25/50, Avg Loss: 134.5232                                                                                                                           
+[Checkpoint] Saved best models at epoch 25, Avg_loss 134.5232
+Epoch 26/50, Avg Loss: 132.8282                                                                                                                           
+[Checkpoint] Saved best models at epoch 26, Avg_loss 132.8282
+Epoch 27/50, Avg Loss: 131.1883                                                                                                                           
+[Checkpoint] Saved best models at epoch 27, Avg_loss 131.1883
+Epoch 28/50, Avg Loss: 130.6768                                                                                                                           
+[Checkpoint] Saved best models at epoch 28, Avg_loss 130.6768
+Epoch 29/50, Avg Loss: 130.6048                                                                                                                           
+[Checkpoint] Saved best models at epoch 29, Avg_loss 130.6048
+Epoch 30/50, Avg Loss: 127.8011                                                                                                                           
+[Checkpoint] Saved best models at epoch 30, Avg_loss 127.8011
+Epoch 31/50, Avg Loss: 125.7859                                                                                                                           
+[Checkpoint] Saved best models at epoch 31, Avg_loss 125.7859
+Epoch 32/50, Avg Loss: 127.2983                                                                                                                           
+Epoch 33/50, Avg Loss: 123.8866                                                                                                                           
+[Checkpoint] Saved best models at epoch 33, Avg_loss 123.8866
+Epoch 34/50, Avg Loss: 122.8995                                                                                                                           
+[Checkpoint] Saved best models at epoch 34, Avg_loss 122.8995
+Epoch 35/50, Avg Loss: 120.4294                                                                                                                           
+[Checkpoint] Saved best models at epoch 35, Avg_loss 120.4294
+Epoch 36/50, Avg Loss: 121.6668                                                                                                                           
+Epoch 37/50, Avg Loss: 119.2850                                                                                                                           
+[Checkpoint] Saved best models at epoch 37, Avg_loss 119.2850
+Epoch 38/50, Avg Loss: 115.3507                                                                                                                           
+[Checkpoint] Saved best models at epoch 38, Avg_loss 115.3507
+Epoch 39/50, Avg Loss: 120.4159                                                                                                                           
+Epoch 40/50, Avg Loss: 118.6377                                                                                                                           
+Epoch 41/50, Avg Loss: 118.7669                                                                                                                           
+Epoch 42/50, Avg Loss: 113.5729                                                                                                                           
+[Checkpoint] Saved best models at epoch 42, Avg_loss 113.5729
+Epoch 43/50, Avg Loss: 112.4483                                                                                                                           
+[Checkpoint] Saved best models at epoch 43, Avg_loss 112.4483
+Epoch 44/50, Avg Loss: 113.1716                                                                                                                           
+Epoch 45/50, Avg Loss: 111.2660                                                                                                                           
+[Checkpoint] Saved best models at epoch 45, Avg_loss 111.2660
+Epoch 46/50, Avg Loss: 114.0481                                                                                                                           
+Epoch 47/50, Avg Loss: 111.5030                                                                                                                           
+Epoch 48/50, Avg Loss: 110.4223                                                                                                                           
+[Checkpoint] Saved best models at epoch 48, Avg_loss 110.4223
+Epoch 49/50, Avg Loss: 106.9438                                                                                                                           
+[Checkpoint] Saved best models at epoch 49, Avg_loss 106.9438
+Epoch 50/50, Avg Loss: 105.4444                                                                                                                           
+[Checkpoint] Saved best models at epoch 50, Avg_loss 105.4444

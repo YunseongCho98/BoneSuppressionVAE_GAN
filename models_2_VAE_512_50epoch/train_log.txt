@@ -1,0 +1,86 @@
+Epoch 1/50, Avg Loss: 5062.9902
+[Checkpoint] Saved best models at epoch 1, Avg_loss 5062.9902
+Epoch 2/50, Avg Loss: 429.1017
+[Checkpoint] Saved best models at epoch 2, Avg_loss 429.1017
+Epoch 3/50, Avg Loss: 276.6729
+[Checkpoint] Saved best models at epoch 3, Avg_loss 276.6729
+Epoch 4/50, Avg Loss: 231.4764
+[Checkpoint] Saved best models at epoch 4, Avg_loss 231.4764
+Epoch 5/50, Avg Loss: 208.5068
+[Checkpoint] Saved best models at epoch 5, Avg_loss 208.5068
+Epoch 6/50, Avg Loss: 186.8908
+[Checkpoint] Saved best models at epoch 6, Avg_loss 186.8908
+Epoch 7/50, Avg Loss: 178.3263
+[Checkpoint] Saved best models at epoch 7, Avg_loss 178.3263
+Epoch 8/50, Avg Loss: 174.2664
+[Checkpoint] Saved best models at epoch 8, Avg_loss 174.2664
+Epoch 9/50, Avg Loss: 169.2219
+[Checkpoint] Saved best models at epoch 9, Avg_loss 169.2219
+Epoch 10/50, Avg Loss: 163.3490
+[Checkpoint] Saved best models at epoch 10, Avg_loss 163.3490
+Epoch 11/50, Avg Loss: 161.2007
+[Checkpoint] Saved best models at epoch 11, Avg_loss 161.2007
+Epoch 12/50, Avg Loss: 156.3127
+[Checkpoint] Saved best models at epoch 12, Avg_loss 156.3127
+Epoch 13/50, Avg Loss: 153.2084
+[Checkpoint] Saved best models at epoch 13, Avg_loss 153.2084
+Epoch 14/50, Avg Loss: 158.6363
+Epoch 15/50, Avg Loss: 148.3424
+[Checkpoint] Saved best models at epoch 15, Avg_loss 148.3424
+Epoch 16/50, Avg Loss: 144.7360
+[Checkpoint] Saved best models at epoch 16, Avg_loss 144.7360
+Epoch 17/50, Avg Loss: 143.5555
+[Checkpoint] Saved best models at epoch 17, Avg_loss 143.5555
+Epoch 18/50, Avg Loss: 139.5039
+[Checkpoint] Saved best models at epoch 18, Avg_loss 139.5039
+Epoch 19/50, Avg Loss: 137.6212
+[Checkpoint] Saved best models at epoch 19, Avg_loss 137.6212
+Epoch 20/50, Avg Loss: 137.1242
+[Checkpoint] Saved best models at epoch 20, Avg_loss 137.1242
+Epoch 21/50, Avg Loss: 134.9583
+[Checkpoint] Saved best models at epoch 21, Avg_loss 134.9583
+Epoch 22/50, Avg Loss: 134.8556
+[Checkpoint] Saved best models at epoch 22, Avg_loss 134.8556
+Epoch 23/50, Avg Loss: 134.8874
+Epoch 24/50, Avg Loss: 130.1663
+[Checkpoint] Saved best models at epoch 24, Avg_loss 130.1663
+Epoch 25/50, Avg Loss: 131.5984
+Epoch 26/50, Avg Loss: 128.0688
+[Checkpoint] Saved best models at epoch 26, Avg_loss 128.0688
+Epoch 27/50, Avg Loss: 131.9361
+Epoch 28/50, Avg Loss: 127.7071
+[Checkpoint] Saved best models at epoch 28, Avg_loss 127.7071
+Epoch 29/50, Avg Loss: 127.8943
+Epoch 30/50, Avg Loss: 125.5883
+[Checkpoint] Saved best models at epoch 30, Avg_loss 125.5883
+Epoch 31/50, Avg Loss: 129.1477
+Epoch 32/50, Avg Loss: 122.7100
+[Checkpoint] Saved best models at epoch 32, Avg_loss 122.7100
+Epoch 33/50, Avg Loss: 121.3631
+[Checkpoint] Saved best models at epoch 33, Avg_loss 121.3631
+Epoch 34/50, Avg Loss: 120.8817
+[Checkpoint] Saved best models at epoch 34, Avg_loss 120.8817
+Epoch 35/50, Avg Loss: 119.5192
+[Checkpoint] Saved best models at epoch 35, Avg_loss 119.5192
+Epoch 36/50, Avg Loss: 117.4985
+[Checkpoint] Saved best models at epoch 36, Avg_loss 117.4985
+Epoch 37/50, Avg Loss: 118.6258
+Epoch 38/50, Avg Loss: 123.3085
+Epoch 39/50, Avg Loss: 120.4522
+Epoch 40/50, Avg Loss: 115.2202
+[Checkpoint] Saved best models at epoch 40, Avg_loss 115.2202
+Epoch 41/50, Avg Loss: 114.2187
+[Checkpoint] Saved best models at epoch 41, Avg_loss 114.2187
+Epoch 42/50, Avg Loss: 114.6534
+Epoch 43/50, Avg Loss: 112.8407
+[Checkpoint] Saved best models at epoch 43, Avg_loss 112.8407
+Epoch 44/50, Avg Loss: 111.9828
+[Checkpoint] Saved best models at epoch 44, Avg_loss 111.9828
+Epoch 45/50, Avg Loss: 113.4747
+Epoch 46/50, Avg Loss: 111.8439
+[Checkpoint] Saved best models at epoch 46, Avg_loss 111.8439
+Epoch 47/50, Avg Loss: 113.8440
+Epoch 48/50, Avg Loss: 115.8165
+Epoch 49/50, Avg Loss: 112.1534
+Epoch 50/50, Avg Loss: 111.7143
+[Checkpoint] Saved best models at epoch 50, Avg_loss 111.7143

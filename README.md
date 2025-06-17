@@ -3,6 +3,15 @@
 이 프로젝트는 Variational Autoencoder(VAE)를 생성자로 활용하고, GAN(Generative Adversarial Network) 구조를 결합하여 Bone Suppression을 수행하는 모델입니다. VAE는 입력 이미지를 잠재 공간(latent space)으로 인코딩하고, 이를 다시 디코딩하여 뼈 구조가 억제된 이미지를 생성합니다. GAN의 판별자는 생성된 이미지와 실제 이미지를 구분하며, 이를 통해 생성자의 성능을 향상시킵니다.
 
 ---
+## 파일 설명
+
+- requirements.txt : 필요 라이브러리 목록 (가상환경을 별도로 구축하는 것을 권장!!!)
+
+- VAE_GAN.py : 모델 학습 코드 (데이터 다운로드 및 디렉토리 조정 필요!!!)
+
+- test_GAN.py : 모델 테스트 코드 (데이터 다운로드 및 디렉토리 조정 필요!!!)
+
+---
 
 ## 파라미터 다운로드
 

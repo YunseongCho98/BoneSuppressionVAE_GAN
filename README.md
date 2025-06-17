@@ -17,6 +17,6 @@
 
 - [파라미터 다운로드 링크](https://drive.google.com/file/d/17CQJCCyzVfMgBPv_rDdjIkcbywIEMywB/view?usp=share_link)
 
-## 학습 및 테스트 데이터 다운로드
+### 학습 및 테스트 데이터 다운로드
 
 - [데이터 다운로드 링크](https://drive.google.com/file/d/1VKbe_xsSXblG1v7SKj9Fw0n7gNE2KP0E/view?usp=share_link)
